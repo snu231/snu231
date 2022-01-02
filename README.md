@@ -1,4 +1,6 @@
-### Hi there 👋
+### nomad coder 챌린지: https://github.com/nomadChallenge 
+### 학부 과제: https://github.com/undergraduate-homework
+### nomad coder 강의: https://github.com/nomadlectures
 
 <!--
 **snu231/snu231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
